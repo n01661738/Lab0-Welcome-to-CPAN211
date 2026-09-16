@@ -112,4 +112,4 @@ After the PR is merged, you're officially done with Lab 0! ✅
 
 | 0 | Christin, Mugisha | [N0123456789] | @christinhumber | ly-christin.mugisha@humber.ca | [🔥] Completed | [N/A] |
 
-| 0 | Joshua, Dangelo | n01661738 | n01661738.github.io | n01661738@humber.ca | ૮₍´｡ᵔ ꈊ ᵔ｡`₎ა | N/A |
+| 1 | Joshua, Dangelo | N01661738 | n01661738.github.io | n01661738@humber.ca | ૮₍´｡ᵔ ꈊ ᵔ｡`₎ა | N/A |
